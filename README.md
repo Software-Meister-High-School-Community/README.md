@@ -55,8 +55,7 @@
 
 
 
-## 커밋 규칙
-> 프론트엔드라면 아래 링크를 확인해주세요!
+## 분야별 커밋 규칙
 * [프론트엔드](https://github.com/Software-Meister-High-School-Community/README.md/tree/main/frontend)
 * [백엔드](https://github.com/Software-Meister-High-School-Community/README.md/tree/main/backend)
 * [안드로이드](https://github.com/Software-Meister-High-School-Community/README.md/tree/main/andrid)
