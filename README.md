@@ -2,10 +2,10 @@
 
 ## 목차
 
-* [개발 프로세스](https://github.com/TSoftware-Meister-High-School-Community/README.md#개발-프로세스)
+* [개발 프로세스](https://github.com/Software-Meister-High-School-Community/README.md#개발-프로세스)
 * [이슈규칙](https://github.com/Software-Meister-High-School-Community/README.md#이슈-규칙)
-* [커밋규칙](https://github.com/TSoftware-Meister-High-School-Community/README.md#커밋-규칙)
-* [브랜치규칙](https://github.com/TSoftware-Meister-High-School-Community/README.md#브랜치-규칙)
+* [커밋규칙](https://github.com/Software-Meister-High-School-Community/README.md#커밋-규칙)
+* [브랜치규칙](https://github.com/Software-Meister-High-School-Community/README.md#브랜치-규칙)
 * [버전규칙](https://github.com/Software-Meister-High-School-Community/README.md#버전-규칙)
 
 
